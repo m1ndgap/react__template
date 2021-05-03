@@ -1,1 +1,1 @@
-# react__template
+# React template project
